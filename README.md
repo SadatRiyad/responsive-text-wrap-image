@@ -16,6 +16,12 @@ View the live project here: [Responsive Text Wrap Around Image](https://sadatriy
   - Includes rounded corners, shadow effects, and justified text for a professional look.
 - **Reusable Layout:** Ideal for blogs, "about us" pages, or articles.
 
+## Screenshot
+
+Here’s an example of the project:
+
+![Responsive Text Wrap Example](./Opera%20Snapshot_2025-01-01_031110_sadatriyad.github.io.png)
+
 ## Technologies Used
 
 - **HTML**
